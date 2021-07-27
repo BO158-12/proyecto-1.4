@@ -21,4 +21,7 @@ Desde Postman u otro cliente API, realizar peticiones POST para llenar base de d
 
 -Company -Contacts -Countrys -Roles -Users
 
+Usuario: Belen Martinez
+Password:12345
+email: martinez@gmail.com
 
